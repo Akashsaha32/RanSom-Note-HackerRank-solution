@@ -1,0 +1,1 @@
+# RanSom-Note-HackerRank-solution
